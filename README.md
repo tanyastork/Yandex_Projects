@@ -12,3 +12,7 @@
 | [Анализ сервиса аренды самокатов](scooter_rental) | Анализ сервиса аренды самокатов GoFast для выявления факторов, оказывающих влияние на развитие бизнеса | *pandas, matplotlib, seaborn, numpy, scipy, math* |
 | [Анализ магазина компьютерных игр](games) | Выявление определяющих успешность игры закономерностей | *pandas, matplotlib, seaborn, numpy, scipy, math* |
 | [Анализ магазина компьютерных игр](business_indicators) | Анализ маркетинговой стратегии и выявление присины падения выручки компании | *pandas, matplotlib, seaborn, numpy, datetime* |
+| [Анализ поведения пользователей мобильного приложения онлайн-магазина](food_AB) | Анализ поведения пользователей, воронки продаж, результатов А/В теста | *pandas, matplotlib, seaborn, numpy, datetime, plotly* |
+| [Аналитик крупного интернет-магазина](hypotheses) | Приоритизация имеющихся гипотез по фреймворкам, анализ результата A/B теста | *pandas, matplotlib, seaborn, numpy, datetime* |
+| [Анализ заведений общественного питания в Москве](story_place_in_moscow) | Выбор лучшей категории и места для открытия заведения в Москве | *pandas, matplotlib, seaborn, numpy, datetime, plotly, folium* (могут быть проблемы с отображением графиков plotly)| 
+| [Продвинутый PostgreSQL](sql_advanced) | Решение задач. Данные по Stake OverFlow | | 
